@@ -1,0 +1,2 @@
+Hello world
+Changing the file in staging

@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Creating a new file from new machine
-=======
 changed file
->>>>>>> nanhen
+``
